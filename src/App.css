@@ -1,0 +1,14 @@
+.container{
+  margin: auto;
+  width: 50%;
+  border: 1px solid blanchedalmond;
+  background-color: aqua;
+  padding: 10px;
+}
+.add-btn{
+  float: right;
+  background-color: red;
+  color: white;
+}
+
+

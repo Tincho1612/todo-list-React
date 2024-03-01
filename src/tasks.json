@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "task":"Hacer curso React",
+    "completed": true
+},
+{
+    "id":2,
+    "task":"Tomar cafe",
+    "completed": true
+},
+{
+    "id":3,
+    "task":"Hacer la cama",
+    "completed": false
+},
+{
+    "id":4,
+    "task":"Ir de compras",
+    "completed": false
+},
+{
+    "id":5,
+    "task":"Tomar 3 litros de agua",
+    "completed": false
+}]
